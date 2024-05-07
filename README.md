@@ -90,7 +90,7 @@ gcc -o forkcheck.o forkcheck.c
 
 ## OUTPUT
 
-![alt text](<EX 02/fork.png>)
+![alt text](fork.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -130,7 +130,7 @@ gcc -o execcheck2.o execcheck2.c
 
 ## OUTPUT
 
-![alt text](<EX 02/exec.png>)
+![alt text](exec.png)
 
 ## RESULT:
 The programs are executed successfully.
